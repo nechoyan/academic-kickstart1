@@ -4,7 +4,7 @@ name: Lida Liu
 
 # Username (this should match the folder name)
 authors: 
-- Lida Liu
+- lida-liu
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,4 +31,4 @@ user_groups:
 
 
 ---
-
+Lida Liu

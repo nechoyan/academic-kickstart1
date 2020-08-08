@@ -4,7 +4,7 @@ name: Zhengguang Gao
 
 # Username (this should match the folder name)
 authors: 
-- Zhengguang Gao
+- zhengguang-gao
 
 # Is this the primary user of the site?
 superuser: true

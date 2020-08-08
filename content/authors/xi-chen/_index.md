@@ -4,7 +4,7 @@ name: Xi Chen
 
 # Username (this should match the folder name)
 authors: 
-- Xi Chen
+- xi-chen
 
 # Is this the primary user of the site?
 superuser: true
