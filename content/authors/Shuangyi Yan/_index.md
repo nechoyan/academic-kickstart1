@@ -36,10 +36,10 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3t8Tn_MAAAAJ&view_op=list_works&sortby=pubdate
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Shuangyi_Yan
 - icon: publons
-  icon_pack: fab
+  icon_pack: ai
   link: https://publons.com/researcher/1184731/shuangyi-yan/
    
 # Link to a PDF of your resume/CV from the About widget.
