@@ -12,3 +12,5 @@ header:
   caption: ""
   image: ""
 ---
+
+OSA Travelling Lecturer Program @ the SUSTC OSA Student Chapter

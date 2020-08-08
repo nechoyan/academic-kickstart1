@@ -4,7 +4,7 @@ name: Shuangyi Yan
 
 # Username (this should match the folder name)
 authors:
-- shuangyi-yan
+- Shuangyi Yan
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on AI-driven automatic dynamic optical networks with flexible network functions and fast network reconfigurations. 
-
 
 
 # Social/Academic Networking
@@ -71,6 +70,4 @@ educations:
 
 ---
 
-Shuangyi Yan is currently a lecturer in High Performance Networking & Optical Networking at the University of Bristol. He received the B.E degree in information engineering from Tianjin University, Tianjin, China in 2004. In 2009, he got the PhD degree in optical engineering from Xi’an Institute of Optics and Precision Mechanics, CAS, Xi’an, China. His doctoral dissertation focused on key technologies in ultra-high-speed optical communication networks, such as ultra-short optical pulse generation, high-bandwidth optical signal processing. From 2011 to 2013, He worked on the spectra-efficient long-haul transmission system and low-cost short-range transmission system in Photonics Research Centre, Dept. EIE of the Hong Kong Polytechnic University, Hong Kong. He was involved in several industrial funded projects. In July 2013, he joined the High Performance Networks Group at University of Bristol. His research interests include Artificial intelligence in Optical Networks, multi-dimensional programmable optical networks, multi-layer network analytics for network optimisation, and next generation data centre networks. He is the author or co-author of over 60 publications, of which consist patents and several post deadline papers in optical communication related top-level conferences. 
-
-
+Dr Shuangyi Yan is a lecturer in the High Performance Networks group, Smart Internet Lab at the University of Bristol. He received the B.E degree in information engineering from Tianjin University, Tianjin, China in 2004. In 2009, he got the PhD degree in optical engineering from Xi’an Institute of Optics and Precision Mechanics, CAS, Xi’an, China. From 2011 to 2013, he worked in the Hong Kong Polytechnic University, Hong Kong, as a postdoctoral researcher on the spectra-efficient long-haul optical transmission system and low-cost short-range transmission system. In July 2013, he joined the High Performance Networks Group at University of Bristol. His research focuses on machine-learning applications in dynamic optical networks and 5G Beyond networks, programmable optical networks, and data centre networks. He is the author or co-author of over 80 refereed publications, of which consist several post-deadline papers in optical communication related top-level conferences. He also served as Technical Program Committee members and Co-Chairs in several conferences, such as EuCNC, ONDM, OECC, and ACP.
