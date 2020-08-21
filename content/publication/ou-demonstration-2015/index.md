@@ -1,7 +1,7 @@
 ---
 title: "Demonstration of Optical Virtualize-Able Transceiver Using Extended OpenFlow Control"
 date: 2015-09-01
-publishDate: 2020-08-08T18:52:41.164132Z
+publishDate: 2020-08-21T17:02:34.218497Z
 authors: ["Y. Ou", "S. Yan", "B. Guo", "S. Peng", "G. Zervas", "R. Nejabati", "D. Simeonidou"]
 publication_types: ["1"]
 abstract: "A feasible optical virtualize-able transceiver is proposed to support virtual optical networks by creating multiple co-existing virtual transceivers controlled by SDN. This solution is experimentally demonstrated, showing on-demand selection of subcarriers, channel spacing and modulation formats."

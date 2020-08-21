@@ -1,7 +1,7 @@
 ---
 title: "Hardware-Programmable Optical Networks (Invited)"
 date: 2016-10-01
-publishDate: 2020-08-08T18:52:41.182785Z
+publishDate: 2020-08-21T17:02:34.226366Z
 authors: ["Yan Shuangyi", "Hugues-Salas Emilio", "Ou Yanni", "Nejabati Reza", "Simeonidou Dimitra"]
 publication_types: ["2"]
 abstract: ""

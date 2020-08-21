@@ -1,7 +1,7 @@
 ---
 title: "Generation of 10 GHz, 1.9 Ps Optical Pulse Train Using Semiconductor Optical Amplifier and Silica-Based Highly Nonlinear Fiber"
 date: 2010-08-01
-publishDate: 2020-08-08T18:52:41.213662Z
+publishDate: 2020-08-21T17:02:34.242451Z
 authors: ["S Y Yan", "X P Xie", "Z Q Hui", "H Feng", "W Zhao"]
 publication_types: ["2"]
 abstract: ""

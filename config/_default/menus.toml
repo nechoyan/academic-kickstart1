@@ -10,17 +10,17 @@
 
 [[main]]
   name = "Teaching"
-  url = "https://seis.bris.ac.uk/~sy13201"
+  url = "teaching"
   weight = 20
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "project"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "publication"
   weight = 40
 
 [[main]]
@@ -30,8 +30,8 @@
 
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "News and Update"
+  url = "update"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.

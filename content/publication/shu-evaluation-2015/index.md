@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of Function-Topology Programmable (FTP) Optical Packet/Circuit Switched Data Centre Interconnects"
 date: 2015-09-01
-publishDate: 2020-08-08T18:52:41.175749Z
+publishDate: 2020-08-21T17:02:34.224756Z
 authors: ["Y. Shu", "S. Peng", "Y. Yan", "S. Yan", "E. Hugues-salas", "G. Zervas", "D. Simeonidou"]
 publication_types: ["1"]
 abstract: "An adaptive optical data center network architecture is, for the first time, proposed and simulated. Data center traffic loads are efficiently accommodated by FTP solution, supported by synthetic optical packet/circuit switching scheme and dynamic function-topology management."

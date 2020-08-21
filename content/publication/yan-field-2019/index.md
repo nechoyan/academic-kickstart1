@@ -1,7 +1,7 @@
 ---
 title: "Field Trial of Machine-Learning-Assisted and SDN-Based Optical Network Management"
 date: 2019-03-03
-publishDate: 2020-08-08T18:52:41.212306Z
+publishDate: 2020-08-21T17:02:34.241674Z
 authors: ["Shuangyi Yan", "Faisal Nadeem Khan", "Alex Mavromatis", "Qirui Fan", "Hilary Frank", "Reza Nejabati", "Alan Pak Tao Lau", "Dimitra Simeonidou"]
 publication_types: ["1"]
 abstract: "In this paper, we reported machine-learning based network dynamic abstraction over a field-trial testbed. The implemented network-scale NCMDB allows the ML-based quality-of-transmission predictor abstract dynamic link parameters for further network planning."

@@ -1,7 +1,7 @@
 ---
 title: "Deep Reinforcement Learning for BBU Placement and Routing in C-RAN"
 date: 2019-03-03
-publishDate: 2020-08-08T18:52:41.113351Z
+publishDate: 2020-08-21T17:02:34.203651Z
 authors: ["Zhengguang Gao", "Jiawei Zhang", "Shuangyi Yan", "Yuming Xiao", "Dimitra Simeonidou", "Yuefeng Ji"]
 publication_types: ["1"]
 abstract: "The paper proposes a deep reinforcement learning (DRL) based policy for BBU placement and routing in C-RAN. The simulation results show DRL-based policy reaches the near-optimal performance with a significantly reduced computing time."

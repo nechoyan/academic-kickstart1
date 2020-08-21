@@ -1,7 +1,7 @@
 ---
 title: "Programmable Optical Packet/Circuit Switched Data Centre Interconnects: Traffic Modeling and Evaluation"
 date: 2014-09-01
-publishDate: 2020-08-08T18:52:41.176841Z
+publishDate: 2020-08-21T17:02:34.225285Z
 authors: ["Y. Shu", "G. Zervas", "Y. Yan", "S. Peng", "S. Yan", "E. Hugues-salas", "D. Simeonidou"]
 publication_types: ["1"]
 abstract: "A programmable all-optical data center network architecture with great scalability and flexibility is proposed and evaluated by a statistic data center traffic model to obtain the best utilization efficiency for optical packet/circuit switched network."

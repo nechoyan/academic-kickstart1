@@ -1,7 +1,7 @@
 ---
 title: "DORIOS: Demonstration of an All-Optical Distributed CPU, Memory, Storage Intra DCN Interconnect"
 date: 2015-03-01
-publishDate: 2020-08-08T18:52:41.173861Z
+publishDate: 2020-08-21T17:02:34.224115Z
 authors: ["G. M. Saridis", "E. Hugues-Salas", "Y. Yan", "S. Yan", "S. Poole", "G. Zervas", "D. Simeonidou"]
 publication_types: ["1"]
 abstract: "We show an all-optical ultra-low latency server-to-remote memory/storage data center interconnection, exploiting programmable, flexible, bi-directional and data-rate transparent 4×16 Spectrum Selective Switches and supporting elastic WDM/TDM services using fast nanosecond tunable lasers."

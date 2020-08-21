@@ -1,7 +1,7 @@
 ---
 title: "All-Optical Programmable Disaggregated Data Centre Network Realized by FPGA-Based Switch and Interface Card"
 date: 2016-04-01
-publishDate: 2020-08-08T18:52:41.205430Z
+publishDate: 2020-08-21T17:02:34.237092Z
 authors: ["Y. Yan", "G. M. Saridis", "Y. Shu", "B. R. Rofoee", "S. Yan", "M. Arslan", "T. Bradley", "N. V. Wheeler", "N. H. L. Wong", "F. Poletti", "M. N. Petrovich", "D. J. Richardson", "S. Poole", "G. Zervas", "D. Simeonidou"]
 publication_types: ["2"]
 abstract: "This paper reports an FPGA-based switch and interface card (SIC) and its application scenario in an all-optical, programmable disaggregated data center network (DCN). Our novel SIC is designed and implemented to replace traditional optical network interface cards, plugged into the server directly, supporting optical packet switching (OPS)/optical circuit switching (OCS) or time division multiplexing (TDM)/wavelength division multiplexing (WDM) traffic on demand. Placing the SIC in each server/blade, we eliminate electronics from the top of rack (ToR) switch by pushing all the functionality on each blade while enabling direct intrarack blade-to-blade communication to deliver ultralow chip-to-chip latency. We demonstrate the disaggregated DCN architecture scenarios along with all-optical dimension-programmable N × M spectrum selective Switches (SSS) and an architecture-on-demand (AoD) optical backplane. OPS and OCS complement each other as do TDM and WDM, which can support variable traffic flows. A flat disaggregated DCN architecture is realized by connecting the optical ToR switches directly to either an optical top of cluster switch or the intracluster AoD optical backplane, while clusters are further interconnected to an intercluster AoD for scaling out."

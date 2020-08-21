@@ -8,7 +8,7 @@ summary: "5G-CLARITY will develop and demonstrate a beyond 5G system for private
 authors: [Shuangyi Yan]
 tags: [5G, WiFi, 5G NR, Deep Reinforcement Learning]
 categories: []
-date: 2019-11-31T22:19:42Z
+date: 2019-11-01T10:00:00+01:00
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://www.5gclarity.com/"

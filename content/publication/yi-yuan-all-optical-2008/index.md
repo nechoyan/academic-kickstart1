@@ -1,7 +1,7 @@
 ---
 title: "All-Optical RZ to NRZ Format Conversion Using Single SOA Assisted by Optical Band-Pass Filter"
 date: 2008-06-01
-publishDate: 2020-08-08T18:52:41.226234Z
+publishDate: 2020-08-21T17:02:34.250360Z
 authors: ["Xie Yi-Yuan", "Zhang Jian-Guo", "Wang Wei-Qiang", "Yan Shuang-Yi", "Xie Xiao-Ping"]
 publication_types: ["2"]
 abstract: ""

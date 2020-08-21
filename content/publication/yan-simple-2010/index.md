@@ -1,7 +1,7 @@
 ---
 title: "Simple Approach to Picosecond Pulse Generation Based on Semiconductor Optical Amplifier"
 date: 2010-05-13
-publishDate: 2020-08-08T18:52:41.221120Z
+publishDate: 2020-08-21T17:02:34.247320Z
 authors: ["S.Y. Yan", "W. Zhao", "X.P. Xie", "H.Q. Lu"]
 publication_types: ["2"]
 abstract: ""

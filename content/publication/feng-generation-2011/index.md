@@ -1,7 +1,7 @@
 ---
 title: "Generation of 10-GHz Ultra-Short Pulses with Low Time Jitter in an Actively Mode-Locked Fiber Laser"
 date: 2011-01-01
-publishDate: 2020-08-08T18:52:41.111612Z
+publishDate: 2020-08-21T17:02:34.201323Z
 authors: ["H. Feng", "W. Zhao", "S. Yan", "X. P. Xie"]
 publication_types: ["2"]
 abstract: ""

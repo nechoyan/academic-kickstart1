@@ -1,7 +1,7 @@
 ---
 title: "Chirp and Frequency Offset Tolerant Coherent Burst-Mode Receiver Using Directly Modulated DFB Lasers for Coherent PON Systems"
 date: 2014-11-01
-publishDate: 2020-08-08T18:52:41.115580Z
+publishDate: 2020-08-21T17:02:34.206101Z
 authors: ["Dezhao Huang", "A.P.T. Lau", "Tee-Hiang Cheng", "Chao Lu", "Shuangyi Yan", "Lei Zhou"]
 publication_types: ["1"]
 abstract: "Burst-mode receiver (BMR) is one of the key components in passive optical networks (PONs). When directly-modulated distribution feedback (DFB) lasers are used as transmitter source, the BMR needs to take additional measures to compensate the effects of the laser frequency chirp. In this paper, we design a coherent optical BMR for a directly-modulated DFB laser source with On-Off Keying (OOK) modulation. We show that by increasing the bandwidth of the low-pass filter (LPF) before analog-to-digital converter (ADC), we can receive signal almost unaffected by frequency chirp and frequency offset. By using coherent detection, we can increase the receiver sensitivity thus enlarge the signal transmission distance."
