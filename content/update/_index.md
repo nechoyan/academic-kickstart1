@@ -5,7 +5,7 @@ title: Latest News and Update
 #   1 = List
 #   2 = Compact
 #   3 = Card
-# view: 1
+# view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -27,5 +27,15 @@ header:
   image: ""
 ---
 
-## 1. Invited talk at ACP 2020
-Dr Shuangyi Yan was invited to deliver a talk at ACP 2020 to talk about the deployment requirements of ML applications in optical networks. [Check the detail](/talk/invited-talk_acp20/)
+## Invited talks 
+
+### 2020
+
+1. **ACP 2020**: October 2020, Dr Shuangyi Yan delivered an invited talk at ACP 2020 about the deployment requirements of ML applications in optical networks. [Check the detail](/talk/invited-talk_acp20/)
+2. **ICTON 2020**: July 202, Dr Shuangyi Yan delivered an invited talk at ICTON 2020 about programmable ROADM for MCF-based Multi-dimensional networks. [Check the detail](/talk/icton2019/)
+
+
+## Co-Editor
+1. As a co-editor, Dr Shuangyi Yan is organising a special issue with the title: Machine Learning in the Era of Computing and Network Integration. Submission deadline: July 31 2021 [Check the detail](/talk/ml_si/)
+
+

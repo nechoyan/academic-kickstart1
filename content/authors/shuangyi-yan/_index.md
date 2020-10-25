@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in High Performance Networking & Optical Network
+role: Senior Lecturer in High Performance Networking & Optical Network
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ user_groups:
 interests:
 - Artificial Intelligence in Optical Networks
 - Automatic programmable networks
-- 5G bearer networks
+- 5G and Beyond Networks
 
 educations:
 - PhD in Optical Networks, 2009, Chinses Academy of Science
@@ -71,4 +71,4 @@ educations:
 ---
 
 
-Dr Shuangyi Yan is a lecturer in the High Performance Networks group, Smart Internet Lab at the University of Bristol. He received the B.E degree in information engineering from Tianjin University, Tianjin, China in 2004. In 2009, he got the PhD degree in optical engineering from Xi’an Institute of Optics and Precision Mechanics, CAS, Xi’an, China. From 2011 to 2013, he worked in the Hong Kong Polytechnic University, Hong Kong, as a postdoctoral researcher on the spectra-efficient long-haul optical transmission system and low-cost short-range transmission system. In July 2013, he joined the High Performance Networks Group at University of Bristol. His research focuses on machine-learning applications in dynamic optical networks and 5G Beyond networks, programmable optical networks, and data centre networks. He is the author or co-author of over 80 refereed publications, of which consist several post-deadline papers in optical communication related top-level conferences. He also served as Technical Program Committee members and Co-Chairs in several conferences, such as EuCNC, ONDM, OECC, and ACP.
+Dr Shuangyi Yan is a Senior Lecturer in the High Performance Networks Group in the Smart Internet Lab at the University of Bristol. He received the B.E degree in information engineering from Tianjin University, Tianjin, China in 2004. In 2009, he got the PhD degree in Optical Engineering from Xi’an Institute of Optics and Precision Mechanics, CAS, Xi’an, China. From 2011 to 2013, Dr Yan worked in the Hong Kong Polytechnic University, Hong Kong, as a postdoctoral researcher, investigating on the spectra-efficient long-haul optical transmission system and low-cost short-range transmission system. In July 2013, he joined the University of Bristol. His research focuses on machine-learning applications in dynamic optical networks and 5G Beyond networks, programmable optical networks, and data centre networks. He is the author or co-author of over 80 refereed publications, of which include several post-deadline papers in optical communication related top-level conferences. Dr Yan has delivered 9 invited talks in relevant conferences, such as Optical Networking and Communication Conference (OFC 2019), Optical Network Design and Modelling (ONDM 2019 & 2018), ECOC 2018, and Asia Communications and Photonics Conference (ACP 2017).  He also served as Technical Program Committee members and Co-Chairs in several conferences, such as EuCNC, ONDM, OECC, and ACP.

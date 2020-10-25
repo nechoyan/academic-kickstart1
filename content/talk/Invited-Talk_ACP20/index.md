@@ -1,25 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Invited Talk at ACP 2020"
+title: "Invited Talk: Toward Deployment of ML in Optical Networks,Transfer Learning, Monitoring and Modelling"
 event: Asia Communications and Photonics Conference 2020
 event_url: http://www.acpconf.org/Home/Details?M_Id=Meeting-20200421-MBL2HU4S&N_Id=News-20200723-EOUCQWO4
 location: Beijing, China 
-summary:  Invited talk 
-
-
+summary:  This talk reviewed challenges of ML deployments in optical networks. A transfer-learning based ML lifecycle-management is presented with reduced requirements of practical data over a cloud-based monitoring platform and paves the way to further deployments.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-24T10:00:00+01:00
-date_end: 2020-10-27T11:00:00+01:00
+date: 2020-10-25T08:30:00+01:00
+date_end: 2020-10-25T09:00:00+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-21T12:00:00+01:00
 
-authors: [Shuangyi Yan]
-tags: [Invited Talk, Machine Learning, Quality of Transmission]
+authors: [Shuangyi Yan, Paurakh Paudyal, Sen Shen, Dimitra Simeonidou]
+tags: [Invited Talk, Machine Learning, Quality of Transmission, Transfer Learning]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -45,7 +43,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://youtu.be/NMkYb5XF1Vc
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,6 +59,14 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+## Invited Talk: Toward deployment of ML in optical networks, transfer learning, monitoring and modeling
 
-Dr Shuangyi Yan will deliver an Invited talk at ACP 2020. The tenative title is : Toward deployment of ML in optical networks, transfer learning, monitoring and modeling. More detailed information can be found [here](http://www.acpconf.org/Home/Details?M_Id=Meeting-20200421-MBL2HU4S&N_Id=News-20200723-EOUCQWO4).
+Dr Shuangyi Yan delivered an Invited talk at ACP 2020. The title is : Toward deployment of ML in optical networks, transfer learning, monitoring and modeling. 
+
+This talk reviewed challenges of ML deployments in optical networks. A transfer-learning based ML lifecycle-management is presented with reduced requirements of practical data over a cloud-based monitoring platform and paves the way to further deployments.
+
+More detailed information about the conference can be found [here](http://www.acpconf.org/Home/Details?M_Id=Meeting-20200421-MBL2HU4S&N_Id=News-20200723-EOUCQWO4).
+
+The recording is availabe on Youtube. 
+{{<youtube NMkYb5XF1Vc>}}
 
