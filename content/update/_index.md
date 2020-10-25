@@ -32,7 +32,8 @@ header:
 ### 2020
 
 1. **ACP 2020**: October 2020, Dr Shuangyi Yan delivered an invited talk at ACP 2020 about the deployment requirements of ML applications in optical networks. [Check the detail](/talk/invited-talk_acp20/)
-2. **ICTON 2020**: July 202, Dr Shuangyi Yan delivered an invited talk at ICTON 2020 about programmable ROADM for MCF-based Multi-dimensional networks. [Check the detail](/talk/icton2019/)
+
+2. **ICTON 2020**: July 2020, Dr Shuangyi Yan delivered an invited talk at ICTON 2020 about programmable ROADM for MCF-based Multi-dimensional networks. [Check the detail](/talk/icton2019/)
 
 
 ## Co-Editor
